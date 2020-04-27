@@ -4,7 +4,7 @@ def find_min_in_nested_arrays(arr)
   
   a = 0 
   while a < arr.length do 
-    
+    min = 100
     b = 0 
     
     while b < arr[a].length do 

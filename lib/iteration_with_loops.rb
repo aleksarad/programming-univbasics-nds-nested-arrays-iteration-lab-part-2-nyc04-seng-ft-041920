@@ -1,6 +1,5 @@
 def find_min_in_nested_arrays(arr)
 # need to find min of each inner array, not a general min variable
-  min = 100 
   newArr = []
   
   a = 0 
